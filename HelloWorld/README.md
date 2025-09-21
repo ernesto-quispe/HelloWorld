@@ -8,7 +8,7 @@ I created this simple "Hello World" program to familiarize myself with Python sy
 
 <Path to Python> helloworld.py
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=wU3OI6ioJmg)
 
 # Development Environment
 
@@ -21,10 +21,4 @@ I created this simple "Hello World" program to familiarize myself with Python sy
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
-* Python Official Documentation [URL]
-* Visual Studio Code Docs [URL]
-* GitHub Guides [URL]
+* Python Official Documentation [https://www.python.org/]
